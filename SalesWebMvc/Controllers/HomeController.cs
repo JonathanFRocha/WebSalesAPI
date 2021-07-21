@@ -3,6 +3,7 @@ using SalesWebMvc.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using SalesWebMvc.Models.ViewModels;
 using System.Linq;
 using System.Threading.Tasks;
 
