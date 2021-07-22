@@ -22,4 +22,16 @@
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="Views\SalesRecords\Index - Copy %282%29.cshtml.cs">
+      <DependentUpon>Index.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Views\SalesRecords\Index - Copy - Copy.cshtml.cs">
+      <DependentUpon>Index - Copy.cshtml.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Views\SalesRecords\Index - Copy.cshtml.cs">
+      <DependentUpon>Index.cshtml.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
 </Project>
